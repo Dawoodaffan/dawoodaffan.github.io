@@ -1,0 +1,10 @@
+Package: dawood.cydia
+Name: Affan
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Dawood Affan
+Author: Dawood Affan
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-2+debug
+Installed-Size: 136
